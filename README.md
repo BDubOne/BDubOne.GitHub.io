@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bryan Bartell</h1>
-<h3 align="center">An aspiring software engineer from Houston, Texas</h3>
+<h3 align="center">A Junior Software Engineer from Houston, Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdubone&label=Profile%20views&color=0e75b6&style=flat" alt="bdubone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdubone" alt="bdubone" /></a> </p>
 
-- 🔭 I’m currently working on **Code Platoon Pre-work**
+- 🔭 I’m currently working on **Code Platoon Victor Cohort**
 
 - 🌱 I’m currently learning **intermediate Javascript and beginner level HTML, CSS, and Python**
 
